@@ -1,9 +1,9 @@
-----------
+---
 layout:post
 title: markdown测试
 date: 2015-4-2
 categories:pl__all
-----------
+---
 #一级标题
 #二级标题
 ~~删除线~~
